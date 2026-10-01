@@ -1,0 +1,2 @@
+Addition
+Addition is finding the sum of two numbers. For example, 3 + 5 = 10
